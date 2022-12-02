@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+jupyter
+control
+sphinx
+setuptools
+git+git://github.com/OpenModelica/OMPython
+tqdm
+dymat
+fmpy
